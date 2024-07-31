@@ -1,0 +1,43 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #000;
+    text-align: center;
+    margin-top: 50px;
+}
+
+ol {
+    list-style-type: decimal;
+    margin: 20px auto;
+    padding: 0;
+    width: fit-content;
+}
+
+li {
+    margin: 5px 0;
+    color: #555;
+}
+
+a {
+    display: block;
+    text-align: center;
+    margin: 30px auto;
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    text-decoration: none;
+    width: fit-content;
+    border-radius: 5px;
+}
+
+a:hover {
+    background-color: #555;
+}
+ 
